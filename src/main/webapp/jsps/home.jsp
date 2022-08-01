@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to mithun Technologies,Anantapur </h1>
+<h1 align="center">Welcome to mithun Technologies,Anantap   </h1>
 <h1 align="center"> Mithun Software Solutions- Very good Training center for devops with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
